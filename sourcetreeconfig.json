@@ -1,0 +1,35 @@
+{
+  "$id": "9",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2023-09-06T23:08:40.7611424+09:00",
+  "LastUsedView": 2,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "ブランチ",
+    "リモート",
+    "スタッシュ"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "NeedsLargeFilesPull": false,
+  "RemoteProjectLinks": [
+    {
+      "$id": "10",
+      "BaseUrl": "https://github.com",
+      "Identifier": "sakagawayasuaki/saladbowl_dx_team",
+      "RemoteName": "origin",
+      "Type": 0,
+      "Username": "Tomoya-Hirano-04",
+      "CloneUrl": null,
+      "ProjectUrl": null,
+      "AccountId": "Tomoya-Hirano-04@github.com",
+      "AvatarUrl": null,
+      "DisplayName": "origin: https://github.com"
+    }
+  ]
+}
